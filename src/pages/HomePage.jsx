@@ -1,8 +1,8 @@
 import React from 'react'
 
-export const homePage = () => {
+export const HomePage = () => {
   return (
-    <div>homePage</div>
+    <div>HomePage</div>
   )
 }
 
