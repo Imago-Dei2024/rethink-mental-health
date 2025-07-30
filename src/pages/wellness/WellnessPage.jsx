@@ -6,4 +6,4 @@ const WellnessPage = () => {
   )
 }
 
-export default wellnessPage
+export default WellnessPage
