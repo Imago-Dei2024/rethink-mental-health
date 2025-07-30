@@ -1,16 +1,16 @@
 import React from 'react'; 
 import { BrowserRouter as Router, Route, Switch  } from 'react-router-dom'; 
-import Header from './components/layout/header';
+import Header from './components/layout/Header';
 import NavigationMenu from './components/layout/NavigationMenu'; 
-import Footer from './components/layout/footer';
-import HomePage from './pages/homePage';  
-import { AboutPage } from './pages/about/aboutPage'; 
-import { ServicesPage } from './pages/services/servicesPage'; 
-import { FirstResponderPage } from './pages/services/first-responder/firstResponderPage'; 
-import WellnessPage from './pages/wellness/wellnessPage'; 
-import { FAQPage } from './pages/faq/faqPage'; 
-import { ReviewsPage } from './pages/reviews/reviewsPage'; 
-import { ContactPage } from './pages/contact/contactPage'; 
+import Footer from './components/layout/Footer';
+import HomePage from './pages/HomePage';  
+import { AboutPage } from './pages/about/AboutPage'; 
+import { ServicesPage } from './pages/services/ServicesPage'; 
+import { FirstResponderPage } from './pages/services/first-responder/FirstResponderPage'; 
+import WellnessPage from './pages/wellness/WellnessPage'; 
+import { FAQPage } from './pages/faq/FAQPage'; 
+import { ReviewsPage } from './pages/reviews/ReviewsPage'; 
+import { ContactPage } from './pages/contact/ContactPage'; 
 
 import './App.css'; 
 
