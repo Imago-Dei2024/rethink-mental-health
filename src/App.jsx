@@ -1,16 +1,16 @@
 import React from 'react'; 
 import { BrowserRouter as Router, Route, Switch  } from 'react-router-dom'; 
-import Header from './src/components/layout/header';
-import NavigationMenu from './src/components/layout/NavigationMenu'; 
-import Footer from './src/components/layout/footer';
-import HomePage from './src/pages/homePage';  
-import { AboutPage } from './src/pages/about/aboutPage'; 
-import { ServicesPage } from './src/pages/services/servicesPage'; 
-import { FirstResponderPage } from './src/pages/services/first-responder/firstResponderPage'; 
-import WellnessPage from './src/pages/wellness/wellnessPage'; 
-import { FAQPage } from './src/pages/faq/faqPage'; 
-import { ReviewsPage } from './src/pages/reviews/reviewsPage'; 
-import { ContactPage } from './src/pages/contact/contactPage'; 
+import Header from './components/layout/header';
+import NavigationMenu from './components/layout/NavigationMenu'; 
+import Footer from './components/layout/footer';
+import HomePage from './pages/homePage';  
+import { AboutPage } from './pages/about/aboutPage'; 
+import { ServicesPage } from './pages/services/servicesPage'; 
+import { FirstResponderPage } from './pages/services/first-responder/firstResponderPage'; 
+import WellnessPage from './pages/wellness/wellnessPage'; 
+import { FAQPage } from './pages/faq/faqPage'; 
+import { ReviewsPage } from './pages/reviews/reviewsPage'; 
+import { ContactPage } from './pages/contact/contactPage'; 
 
 import './App.css'; 
 
