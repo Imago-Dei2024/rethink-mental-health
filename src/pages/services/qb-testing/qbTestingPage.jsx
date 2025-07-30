@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const qbTestingPage = () => {
+export const QBTestingPage = () => {
   return (
-    <div>qbTestingPage</div>
+    <div>QBTestingPage</div>
   )
 }

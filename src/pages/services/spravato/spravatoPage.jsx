@@ -1,9 +1,9 @@
 import React from 'react'
 
-const spravatoPage = () => {
+const SpravatoPage = () => {
   return (
-    <div>spravatoPage</div>
+    <div>SpravatoPage</div>
   )
 }
 
-export default spravatoPage
+export default SpravatoPage

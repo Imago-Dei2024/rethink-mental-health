@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const geneticTestingPage = () => {
+export const GeneticTestingPage = () => {
   return (
-    <div>geneticTestingPage</div>
+    <div>GeneticTestingPage</div>
   )
 }

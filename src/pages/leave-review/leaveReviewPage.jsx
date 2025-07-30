@@ -1,8 +1,8 @@
 import React from 'react'
 
-export const leaveReviewPage = () => {
+export const LeaveReviewPage = () => {
   return (
-    <div>leaveReviewPage</div>
+    <div>LeaveReviewPage</div>
   )
 }
 

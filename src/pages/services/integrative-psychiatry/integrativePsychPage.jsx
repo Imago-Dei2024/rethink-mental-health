@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const integrativePsychPage = () => {
+export const IntegrativePsychPage = () => {
   return (
-    <div>integrativePsychPage</div>
+    <div>IntegrativePsychPage</div>
   )
 }

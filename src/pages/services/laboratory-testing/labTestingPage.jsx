@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const labTestingPage = () => {
+export const LabTestingPage = () => {
   return (
-    <div>labTestingPage</div>
+    <div>LabTestingPage</div>
   )
 }

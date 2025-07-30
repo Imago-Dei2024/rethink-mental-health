@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const contactPage = () => {
+export const ContactPage = () => {
   return (
-    <div>contactPage</div>
+    <div>ContactPage</div>
   )
 }

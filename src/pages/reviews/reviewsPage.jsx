@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const reviewsPage = () => {
+export const ReviewsPage = () => {
   return (
-    <div>reviewsPage</div>
+    <div>ReviewsPage</div>
   )
 }

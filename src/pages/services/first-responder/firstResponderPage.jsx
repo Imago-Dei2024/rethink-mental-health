@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const firstResponderPage = () => {
+export const FirstResponderPage = () => {
   return (
-    <div>firstResponderPage</div>
+    <div>FirstResponderPage</div>
   )
 }

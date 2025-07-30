@@ -1,7 +1,8 @@
 import React from 'react'
 
-export const aboutPage = () => {
+export const AboutPage = () => {
   return (
-    <div>aboutPage</div>
+    <div>AboutPage</div>
   )
 }
+

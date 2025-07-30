@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const addictionPage = () => {
+export const AddictionPage = () => {
   return (
-    <div>addictionPage</div>
+    <div>AddictionPage</div>
   )
 }
